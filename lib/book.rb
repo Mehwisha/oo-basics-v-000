@@ -3,7 +3,7 @@ def initialize(title)
 
 end
 def title
-@title = tiltle
+@title = title
 end
 def author
 
